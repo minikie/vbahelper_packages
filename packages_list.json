@@ -1,9 +1,9 @@
 {
-    "package1":
+    "sample_vba_package":
     {
-        "project_url": "https://gitlab.com/math.ansang/vba_test"
+        "project_url": "https://github.com/minikie/sample_vba_package"
     },
-    "package2":
+    "vba_test":
     {
         "project_url": "https://gitlab.com/math.ansang/vba_test"
     }
